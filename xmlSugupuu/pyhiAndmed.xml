@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sugupuu>
+	<inimene synniaasta="1954">
+		<nimi>Ludmila</nimi>
+		<synniasta>1954</synniasta>
+		<synnikoht>Mariupol, Ukraina</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1973">
+				<nimi>Oksana</nimi>
+				<synniasta>1973</synniasta>
+				<synnikoht>Mariupol, Ukraina</synnikoht>
+			</inimene>
+			<inimene synniaasta="1973">
+				<nimi>Yuliia</nimi>
+				<synniasta>1977</synniasta>
+				<synnikoht>Mariupol, Ukraina</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+	<inimene synniaasta="1949">
+		<nimi>Leonid</nimi>
+		<synniasta>1949</synniasta>
+		<synnikoht>Mariupol, Ukraina</synnikoht>
+		<lapsed>
+
+		</lapsed>
+	</inimene>
+	<inimene synniaasta="1946">
+		<nimi>Ludmila</nimi>
+		<synniasta>1946</synniasta>
+		<synnikoht>Mariupol, Ukraina</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1969">
+				<nimi>Oleh</nimi>
+				<synniasta>1969</synniasta>
+				<synnikoht>Mariupol, Ukraina</synnikoht>
+			</inimene>
+			<inimene synniaasta="1967">
+				<nimi>Oleksandr</nimi>
+				<synniasta>1967</synniasta>
+				<synnikoht>Mariupol, Ukraina</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+	<inimene synniaasta="1948">
+		<nimi>Vladimir</nimi>
+		<synniasta>1948</synniasta>
+		<synnikoht>Mariupol, Ukraina</synnikoht>
+	</inimene>
+	<inimene synniaasta="1977">
+		<nimi>Yuliia</nimi>
+		<synniasta>1977</synniasta>
+		<synnikoht>Mariupol, Ukraina</synnikoht>
+		<lapsed>
+			<inimene synniaasta="2000">
+				<nimi>Dmytro</nimi>
+				<synniasta>2000</synniasta>
+				<synnikoht>Mariupol, Ukraina</synnikoht>
+			</inimene>
+			<inimene synniaasta="2007">
+				<nimi>Oleksandr</nimi>
+				<synniasta>2007</synniasta>
+				<synnikoht>Mariupol, Ukraina</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+	<inimene synniaasta="1969">
+		<nimi>Oleh</nimi>
+		<synniasta>1969</synniasta>
+		<synnikoht>Mariupol, Ukraina</synnikoht>
+	</inimene>
+
+</sugupuu>
